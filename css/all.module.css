@@ -1,0 +1,13 @@
+.all {
+  font-family: serif;
+  color: dimgray;
+}
+
+.app__logout {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: dimgray;
+  margin-left: 10px;
+}
